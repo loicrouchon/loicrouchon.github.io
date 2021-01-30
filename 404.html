@@ -71,9 +71,7 @@ if (!doNotTrack) {
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://loicrouchon.github.io" accesskey="h" title="Loïc&#39;s Blog! (Alt + H)">
-                <img src="/images/profile.jpg" alt="logo" aria-label="logo"
-                    height="64">Loïc&#39;s Blog!</a>
+            <a href="https://loicrouchon.github.io" accesskey="h" title="Loïc&#39;s Blog! (Alt + H)">Loïc&#39;s Blog!</a>
             <span class="logo-switches">
                 <span class="theme-toggle" title="(Alt + T)">
                     <a id="theme-toggle" accesskey="t">
@@ -125,6 +123,11 @@ if (!doNotTrack) {
                 <a href="https://loicrouchon.github.io/about/" title="About">
                     <span>About</span>
                 </a>
+            </li>
+            <li>
+                <a href="https://loicrouchon.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
             </li></ul>
     </nav>
 </header>
@@ -145,7 +148,10 @@ if (!doNotTrack) {
             <path d="M12 6H0l6-6z" />
         </svg>
     </button>
-</a>Hello
+</a>
+
+
+
 <script>
     window.onload = function () {
         if (localStorage.getItem("menu-scroll-position")) {

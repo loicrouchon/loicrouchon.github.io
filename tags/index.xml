@@ -4,25 +4,6 @@
     <title>Tags on Loïc&#39;s Blog!</title>
     <link>https://loicrouchon.github.io/tags/</link>
     <description>Recent content in Tags on Loïc&#39;s Blog!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jan 2021 15:38:16 +0100</lastBuildDate><atom:link href="https://loicrouchon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hi</title>
-      <link>https://loicrouchon.github.io/tags/hi/</link>
-      <pubDate>Sat, 30 Jan 2021 15:38:16 +0100</pubDate>
-      
-      <guid>https://loicrouchon.github.io/tags/hi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>java</title>
-      <link>https://loicrouchon.github.io/tags/java/</link>
-      <pubDate>Sat, 30 Jan 2021 15:38:16 +0100</pubDate>
-      
-      <guid>https://loicrouchon.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://loicrouchon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
