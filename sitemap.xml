@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://loicrouchon.github.io/about/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://loicrouchon.github.io/categories/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://loicrouchon.github.io/</loc>
+    <loc>/archives/</loc>
   </url>
   
   <url>
-    <loc>https://loicrouchon.github.io/search/</loc>
+    <loc>/search/</loc>
   </url>
   
   <url>
-    <loc>https://loicrouchon.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

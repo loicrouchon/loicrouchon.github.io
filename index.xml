@@ -2,25 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Loïc&#39;s Blog!</title>
-    <link>https://loicrouchon.github.io/</link>
+    <link>/</link>
     <description>Recent content on Loïc&#39;s Blog!</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://loicrouchon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me?</title>
-      <link>https://loicrouchon.github.io/about/</link>
+      <title>About me!</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://loicrouchon.github.io/about/</guid>
-      <description>Well well well&amp;hellip;</description>
+      <guid>/about/</guid>
+      <description>Hello, my name is Loïc Rouchon as you probably have guessed. I&amp;rsquo;m a software engineer working mostly with JVM based technologies. I&amp;rsquo;m passionate about software engineering in the broad meaning of the term. This includes languages, designs, frameworks, tooling, methodologies and so on. Every that helps to write better software in faster way.
+In general, I like to understand how things work. Therefore, I have also strong interests in sciences and in particular in theoritical physics.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://loicrouchon.github.io/search/</link>
+      <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://loicrouchon.github.io/search/</guid>
-      <description>search</description>
+      <guid>/search/</guid>
+      <description></description>
     </item>
     
   </channel>
